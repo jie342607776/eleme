@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\commom",
+    "\\src\\commom\\stylus",
+    "\\src\\components",
+    "\\src\\components\\goods",
+    "\\src\\components\\header",
+    "\\src\\components\\ratings",
+    "\\static",
+    "\\static\\css"
+  ],
+  "PreviewInSolutionExplorer": false
+}
